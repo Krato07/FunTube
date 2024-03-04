@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FunTube/static/css/main.7064deb2.css",
+    "main.js": "/FunTube/static/js/main.fdf4bb99.js",
+    "index.html": "/FunTube/index.html",
+    "main.7064deb2.css.map": "/FunTube/static/css/main.7064deb2.css.map",
+    "main.fdf4bb99.js.map": "/FunTube/static/js/main.fdf4bb99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.fdf4bb99.js"
+  ]
+}
